@@ -20,6 +20,6 @@ function RacAlg(){
 
 function Menu(){
 
-    window.location.href = "../Menu.html";
+    window.location.href = "../index.html";
 
 }
